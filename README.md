@@ -60,7 +60,7 @@ I love building systems that feel *alive* — whether that’s an AI reviewer, a
 
 Listen to your AnkiDroid decks on your phone or through your car's speakers. Reads cards straight from AnkiDroid with no importing or syncing, keeps the same spaced-repetition scheduling, and runs a dedicated driving mode with no rating step so drivers never have to look away from the road.
 
-Built with: React Native • Kotlin (native Android Auto service) • Android TTS ⬇ Download the latest APK
+Built with: React Native • Kotlin (native Android Auto service) • Android TTS [⬇ Download the latest APK](https://github.com/Timmahoney2000/Flashdrive/releases/latest)
 
 ---
 
