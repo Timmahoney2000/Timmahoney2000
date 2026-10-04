@@ -56,7 +56,7 @@ I love building systems that feel *alive* — whether that’s an AI reviewer, a
 
 ## 🧩 Featured Projects  
 
-🚗 [Flashdrive](https://github.com/Timmahoney2000/Flashdrive)** — Hands-free flashcards for Android Auto
+🚗 [Flashdrive](https://github.com/Timmahoney2000/Flashdrive) — Hands-free flashcards for Android Auto
 
 Listen to your AnkiDroid decks on your phone or through your car's speakers. Reads cards straight from AnkiDroid with no importing or syncing, keeps the same spaced-repetition scheduling, and runs a dedicated driving mode with no rating step so drivers never have to look away from the road.
 
@@ -64,7 +64,8 @@ Built with: React Native • Kotlin (native Android Auto service) • Android TT
 
 ---
 
-📚 100resources — AI-searchable resource hub for 100Devs
+📚 [🔗 Live Demo](https://www.100resources.info/ | [💻 Code](https://github.com/Timmahoney2000/100resources)
+
 
 A resource library for the 100Devs community with a RAG-powered AI search bar, so learners can ask questions in plain English and get pointed to the right material.
 
@@ -72,7 +73,7 @@ Built with: Next.js, React, Tailwind, Python, OpenAI.sdk
 
 ---
 
-⚖️ LawParse — Built for anyone who regularly encounters legal documents but isn't a lawyer.
+⚖️ https://www.lawparse.com |  [💻 Code](https://github.com/Timmahoney2000/legalese — Built for anyone who regularly encounters legal documents but isn't a lawyer.
 
 Understand Legal Documents — Without Being a Lawyer
 LawParse translates legal language into clear, plain English for professionals who work with contracts, policies, and agreements every day. If you're not a lawyer but still expected to understand legal documents, LawParse helps you make sense of them before you escalate to legal counsel.
