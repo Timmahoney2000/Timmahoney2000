@@ -56,21 +56,28 @@ I love building systems that feel *alive* — whether that’s an AI reviewer, a
 
 ## 🧩 Featured Projects  
 
-### 🧠 **ThinkBoard – Collaborative MERN Idea Board with User Auth & AI Hooks**  
-**Live:** https://mern-thinkboard-osn3.onrender.com/  
-A real-time, collaborative board for organizing ideas, with room for AI integrations.
+🚗 [Flashdrive](https://github.com/Timmahoney2000/Flashdrive)** — Hands-free flashcards for Android Auto
+
+Listen to your AnkiDroid decks on your phone or through your car's speakers. Reads cards straight from AnkiDroid with no importing or syncing, keeps the same spaced-repetition scheduling, and runs a dedicated driving mode with no rating step so drivers never have to look away from the road.
+
+Built with: React Native • Kotlin (native Android Auto service) • Android TTS ⬇ Download the latest APK
 
 ---
 
-### 🎮 **Sonic Side-Scroller Game (Vanilla JS)**  
-**Live:** https://sonic-side-scroller.netlify.app/  
-A fun retro-style side-scroller game with custom physics and animations.
+📚 100resources — AI-searchable resource hub for 100Devs
+
+A resource library for the 100Devs community with a RAG-powered AI search bar, so learners can ask questions in plain English and get pointed to the right material.
+
+Built with: Next.js, React, Tailwind, Python, OpenAI.sdk
 
 ---
 
-### 🍤 **Park Seafood Restaurant Website (React + Tailwind)**  
-**Live:** https://parkseafood.netlify.app/  
-A clean, modern restaurant site with responsive UI and smooth design.
+⚖️ LawParse — Built for anyone who regularly encounters legal documents but isn't a lawyer.
+
+Understand Legal Documents — Without Being a Lawyer
+LawParse translates legal language into clear, plain English for professionals who work with contracts, policies, and agreements every day. If you're not a lawyer but still expected to understand legal documents, LawParse helps you make sense of them before you escalate to legal counsel.
+
+Built with: Next.js, React, Tailwind, OpenAI.sdk - https://www.lawparse.com/
 
 ---
 
