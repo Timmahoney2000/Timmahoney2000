@@ -64,7 +64,7 @@ Built with: React Native • Kotlin (native Android Auto service) • Android TT
 
 ---
 
-📚 [🔗 Live Demo](https://www.100resources.info/ | [💻 Code](https://github.com/Timmahoney2000/100resources)
+📚 [🔗 LawParse](https://www.100resources.info/)] | [💻 Code](https://github.com/Timmahoney2000/100resources)]
 
 
 A resource library for the 100Devs community with a RAG-powered AI search bar, so learners can ask questions in plain English and get pointed to the right material.
